@@ -1,6 +1,6 @@
 # todolistvue
 
-> A Vue.js project
+> 待辦事項
 
 ## Build Setup
 
