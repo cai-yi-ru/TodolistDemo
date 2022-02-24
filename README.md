@@ -21,7 +21,7 @@ DEMO：[待辦事項ToDoList](https://cai-yi-ru.github.io/TodolistDemo/#/)
 
 ### ****使用技術****
 
-- Vue 3
+- Vue 2
 - Vue Cli
 - Vue Component
 - vue-router
